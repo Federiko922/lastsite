@@ -1,0 +1,17 @@
+body {
+    font-family: sans-serif;
+}
+
+ol{
+    background-color: lime;
+}
+
+p{
+
+    background-color: orangered;
+}
+
+h2:hover{
+color: red;
+transition: 1s linear;
+}
